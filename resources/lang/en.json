@@ -1,0 +1,19 @@
+{
+    "home": "Home",
+    "books": "Books",
+    "contact": "Contact",
+	"languaje": "Languaje",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "create": "Create",
+    "title": "Title",
+    "author": "Author",
+    "acctions": "Acctions",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add-book": "Add Book",
+    "save": "Save",
+    "edit-book": "Edit Book",
+    "update": "Update"
+}

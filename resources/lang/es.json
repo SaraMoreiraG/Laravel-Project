@@ -1,0 +1,19 @@
+{
+    "home": "Inicio",
+    "books": "Libros",
+    "contact": "Contacto",
+	"languaje": "Idioma",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "create": "Crear",
+    "title": "Título",
+    "author": "Autor",
+    "acctions": "Acciones",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "add-book": "Añadir libro",
+    "save": "Guardar",
+    "edit-book": "Editar libro",
+    "update": "Actualizar"
+}
